@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileElementEntity>
+   <description></description>
+   <name>txt_title2</name>
+   <tag></tag>
+   <elementGuidId>5ac35f04-6f4f-4bd2-9b63-3c460f07e726</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>android.widget.EditText</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Title (optional)</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>resource-id</name>
+      <type>Main</type>
+      <value>com.foody.vn.activity:id/edtReviewTitle</value>
+   </webElementProperties>
+   <locator>com.foody.vn.activity:id/edtReviewTitle</locator>
+   <locatorStrategy>ID</locatorStrategy>
+</MobileElementEntity>
